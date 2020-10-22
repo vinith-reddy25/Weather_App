@@ -18,5 +18,5 @@ $ npm start # or yarn start
 ```
 
 ## Description
-This is a simple react weather forecasting app using OpenWeatherMap API.
+This is a simple react weather forecasting app using OpenWeatherMap API. Here 5 days weather details are forecasted.
 
