@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 import PropTypes from 'prop-types';
-import SmallLabel from './SmallLabel';
+import {SmallLabel} from './MedLabel';
 import Text from './Text';
 import device from '../responsive/Device';
 
