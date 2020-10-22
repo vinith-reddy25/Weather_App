@@ -3,13 +3,11 @@
 
 
 
-First clone this repository.
-
 Create React App
 ```bash
 npx create-react-app weather-forecast
 ```
-
+Clone this repository.
 node modul folder is not added in this repository.
 Install dependencies. Make sure you already have [`nodejs`](https://nodejs.org/en/) & [`npm`](https://www.npmjs.com/) installed in your system.
 ```bash
